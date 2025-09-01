@@ -12,7 +12,7 @@ from flask import Flask, request
 import html
 
 # Bot configuration
-BOT_TOKEN = "8394570513:AAHUYpDPc-E3FyzXhAMZ5o1y9PfVzltfsO8"
+BOT_TOKEN = "8394570513:AAH5C-Gu_ipFIGEOeha5AcPFVMSH7QWrPEA"
 ADMIN_ID = "8331345905"
 
 bot = telebot.TeleBot(BOT_TOKEN)
