@@ -1,4 +1,5 @@
 import os
+os.system("pip install telebot")
 import requests
 import telebot
 from telebot import types
